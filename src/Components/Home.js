@@ -11,6 +11,7 @@ function Home() {
                         <div className='bottom-box'>Come find us</div>
                     </div>
                 </div>
+                <div className='right-box'></div>
         </div>
     )
 }
